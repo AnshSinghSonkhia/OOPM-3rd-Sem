@@ -95,6 +95,12 @@ This function is called when the object is deleted.
 
 Example: The implement details of `pow(x,y)` function is hidden to us. We may not know how it is calculating the powers, but we can use it.
 
+## Types of Abstraction:
+### 1. Data abstraction
+This type only shows the required information about the data and hides the unnecessary data.
+### 2. Control Abstraction
+This type only shows the required information about the implementation and hides unnecessary information.
+
 # Inheritance
 
 - A class inherits properties of another class.
