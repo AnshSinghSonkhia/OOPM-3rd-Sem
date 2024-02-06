@@ -2,6 +2,20 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "HelloWorldd",
+      "request": "launch",
+      "mainClass": "HelloWorldd",
+      "projectName": "OOPM 3rd Sem_f1b536ee"
+    },
+    {
+      "type": "java",
+      "name": "HelloWorld",
+      "request": "launch",
+      "mainClass": "HelloWorld",
+      "projectName": "OOPM 3rd Sem_f1b536ee"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",

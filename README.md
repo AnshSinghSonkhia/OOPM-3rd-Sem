@@ -339,3 +339,19 @@ int main() {
 
 - It is a Non-member function, which can access private members of the class.
 
+# Exception Handling in Java
+
+```java
+        int i = 0;
+        int m = 0;
+// try & catch blocks - won't stop the further execution, if an exception is encountered
+        try {
+            m = 18/i;
+        }
+        catch(Exception obj) {
+            System.out.println("Something went wrong.......");
+        }
+        finally {
+            System.out.println("Finally Block runs, whether error occurs or not");
+        }
+```
